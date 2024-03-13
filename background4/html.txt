@@ -1,0 +1,2 @@
+	<div class="center">
+		<h1>VIJAY</h1>
